@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+
+:root {
+    --bgColor: #223344;
+    --bgColor2: #090a0f;
+    --accentColor: #FFF;
+    --font: 'Karla', sans-serif;
+    --delay: .3s;
+}
+
+html, body{
+    margin: 0;
+    height: 100%;
+    font-family: var(--font);
+    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif*/
+}
+
+html{
+    background-image: url('./images/sky.png');
+    background-size:cover;
+}
+
+body{
+    background: linear-gradient(-45deg, rgb(64, 115, 199,0.9), rgba(207,58,58, 0.9));
+    background-size: 400% 400%;
+    animation: gradient 8s ease infinite;
+    padding-top:35px;
+    padding-bottom:35px;
+    height:fit-content;
+    min-height:100%;
+  
+    /*opacity: 0;
+    animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name 
+    animation-fill-mode: forwards;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height:100%;*/
+}
+@keyframes gradient {
+      0% {
+          background-position: 0% 50%;
+      }
+      50% {
+          background-position: 100% 50%;
+      }
+      100% {
+          background-position: 0% 50%;
+      }
+}
+
+/*:root {
+    --accentColor: #E6E6E6;
+    --delay: .3s;
+}*/
+
+.description, .source{
+    color:white;
+    text-align:center;
+    margin: 27px auto;
+    margin-top:10px;
+    width:90%;
+    max-width: 500px;
+}
+
+.source{
+    font-size:small;
+    margin-top:50px;
+}
+
+.profilePicture, .profilePicture img {
+    position: relative;
+    width: 130px;
+    height: 130px;
+    display: block;
+    margin: 35px auto 20px;
+    border-radius: 50%;
+}
+
+.userName {
+    color: var(--accentColor);
+    font-size: 1rem;
+    font-weight: bold;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Style the links inside the pill navigation menu */
+.pill-nav a {
+    display: inline-block;
+    color: var(--accentColor);
+    border: solid var(--accentColor) 2px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px; /*17px*/
+    text-decoration: none;
+    /*padding: 14px;
+    text-decoration: none;*/
+    font-size: 17px;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Change the color of links on mouse-over */
+.pill-nav a:hover {
+    background-color: var(--accentColor);
+    color: #000; /* Fallback for older browsers*/
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* Add a color to the active/current link */
+.pill-nav a.active {
+    background-color: transparent;
+    color: #000; /* Fallback for older browsers*/
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.links {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 27px auto;
+}
+
+.link {
+    position: relative;
+    background-color: transparent;
+    color: var(--accentColor);
+    border: solid var(--accentColor) 2px;
+    border-radius: 10px;
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px; /*17px*/
+    text-decoration: none;
+    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
+    -webkit-tap-highlight-color: transparent;
+}
+
+/*@media (hover: hover) {
+    .link:hover {
+        background-color: var(--accentColor);
+        color: var(--bgColor);
+    }
+}
+
+.link:active {
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+}*/
+
+@media (hover: hover) {
+    .link:hover {
+        background-color: var(--accentColor);
+        color: #000; /* Fallback for older browsers*/
+        color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.link:active {
+    background-color: var(--accentColor);
+    color: #000; /* Fallback for older browsers*/
+    color: rgba(0, 0, 0, 0.5);
+}
