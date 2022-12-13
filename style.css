@@ -12,7 +12,6 @@ html, body{
     margin: 0;
     height: 100%;
     font-family: var(--font);
-    /*font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif*/
 }
 
 html{
@@ -28,15 +27,8 @@ body{
     padding-bottom:35px;
     height:fit-content;
     min-height:100%;
-  
-    /*opacity: 0;
-    animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name 
-    animation-fill-mode: forwards;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    min-height:100%;*/
 }
+
 @keyframes gradient {
       0% {
           background-position: 0% 50%;
@@ -49,10 +41,6 @@ body{
       }
 }
 
-/*:root {
-    --accentColor: #E6E6E6;
-    --delay: .3s;
-}*/
 
 .description, .source{
     color:white;
@@ -89,38 +77,6 @@ body{
     text-decoration: none;
 }
 
-/* Style the links inside the pill navigation menu */
-.pill-nav a {
-    display: inline-block;
-    color: var(--accentColor);
-    border: solid var(--accentColor) 2px;
-    border-radius: 10px;
-    text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    padding: 10px; /*17px*/
-    text-decoration: none;
-    /*padding: 14px;
-    text-decoration: none;*/
-    font-size: 17px;
-    -webkit-tap-highlight-color: transparent;
-}
-
-/* Change the color of links on mouse-over */
-.pill-nav a:hover {
-    background-color: var(--accentColor);
-    color: #000; /* Fallback for older browsers*/
-    color: rgba(0, 0, 0, 0.5);
-}
-
-/* Add a color to the active/current link */
-.pill-nav a.active {
-    background-color: transparent;
-    color: #000; /* Fallback for older browsers*/
-    color: rgba(0, 0, 0, 0.5);
-}
-
 .links {
     max-width: 675px;
     width: auto;
@@ -142,32 +98,20 @@ body{
     margin-bottom: 10px;
     padding: 10px; /*17px*/
     text-decoration: none;
-    /* transition: all .25s cubic-bezier(.08, .59, .29, .99); */
     -webkit-tap-highlight-color: transparent;
 }
 
-/*@media (hover: hover) {
-    .link:hover {
-        background-color: var(--accentColor);
-        color: var(--bgColor);
-    }
-}
-
-.link:active {
-    background-color: var(--accentColor);
-    color: var(--bgColor);
-}*/
 
 @media (hover: hover) {
     .link:hover {
         background-color: var(--accentColor);
-        color: #000; /* Fallback for older browsers*/
+        color: #000;
         color: rgba(0, 0, 0, 0.5);
     }
 }
 
 .link:active {
     background-color: var(--accentColor);
-    color: #000; /* Fallback for older browsers*/
+    color: #000;
     color: rgba(0, 0, 0, 0.5);
 }
