@@ -6,7 +6,7 @@ Github Pages: https://pages.github.com
 Netlify: https://netlify.app
 
 ## Demo
-https://alisa-yar.github.io/
+https://alisa-yar.github.io/linktree-website/
 
 
 
