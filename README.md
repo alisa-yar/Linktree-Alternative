@@ -6,4 +6,4 @@ Github Pages: https://pages.github.com
 Netlify: https://netlify.app
 
 ## Demo
-https://alisa-yar.github.io/linktree-demo/
+http://www.alisa.social/linktree-template/
