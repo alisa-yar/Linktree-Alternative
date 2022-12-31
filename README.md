@@ -34,7 +34,7 @@ Google Analytics: https://analytics.google.com
 https://fontawesome.com/search?o=r&m=free
 
 ## Backround image
-You can change backround to color instead of using an image.
+You can change backround to color instead of using an image.  
 You can find your wanted color code here: https://www.color-hex.com  
 
 ### Backround Color: 
