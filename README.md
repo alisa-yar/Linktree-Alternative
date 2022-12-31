@@ -13,16 +13,16 @@ http://www.alisa.social/linktree-template/
 2. Choose "Create new repository"
 3. You'll see the files under "Repositories" tab on your personal profile and you'll be able to edit and customize it to your preferences.
 
-## How to customize the template
+## How to customize the template (which lines you should change)
 ### index.html file
-1. line 7
-2. line 10
-3. line 15
-4. line 19
-5. line 23
-6. lines 27-55
+1. line 7 - website title
+2. line 10 - website icon image
+3. line 15 - profile image
+4. line 19 - user name
+5. line 23 - description
+6. lines 27-55 - your social media links 
 
 ### style.css file
-1. line 4
-2. line 12
+1. line 4 - text color 
+2. line 12 - your backround image
 
