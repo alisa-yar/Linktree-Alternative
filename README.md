@@ -15,4 +15,14 @@ http://www.alisa.social/linktree-template/
 
 ## How to customize the template
 ### index.html file
-1. line 6 - the 
+1. line 7
+2. line 10
+3. line 15
+4. line 19
+5. line 23
+6. lines 27-55
+
+### style.css file
+1. line 4
+2. line 12
+
