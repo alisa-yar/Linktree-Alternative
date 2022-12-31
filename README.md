@@ -33,3 +33,19 @@ http://www.alisa.social/linktree-template/
 1. line 4 - text color 
 2. line 12 - your backround image
 
+## Backround image
+You can change backround to color instead of using an image.
+You can find your wanted color code here: https://www.color-hex.com  
+
+### Backround Color: 
+background-color: #7e65f5;
+
+### Gradient Backround Color
+background-image:linear-gradient(#e8e0ff,#7e65f5);
+
+
+
+
+
+
+
