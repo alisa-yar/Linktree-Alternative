@@ -1,17 +1,6 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
 
-## Where to host your website?
-Github Pages: https://pages.github.com  
-Netlify: https://netlify.app
-
-## Analytics 
-Microsoft Clarity: https://clarity.microsoft.com  
-Google Analytics: https://analytics.google.com  
-
-## Here you can see the social media icons for the HTML file (the free ones)
-https://fontawesome.com/search?o=r&m=free
-
 ## Demo
 http://www.alisa.social/linktree-template/
 
@@ -36,15 +25,21 @@ http://www.alisa.social/linktree-template/
 ## Backround image
 You can change backround to color instead of using an image.
 You can find your wanted color code here: https://www.color-hex.com  
-
 ### Backround Color: 
 background-color: #7e65f5;
-
 ### Gradient Backround Color
 background-image:linear-gradient(#e8e0ff,#7e65f5);
 
+## Where to host your website?
+Github Pages: https://pages.github.com  
+Netlify: https://netlify.app
 
+## Analytics 
+Microsoft Clarity: https://clarity.microsoft.com  
+Google Analytics: https://analytics.google.com  
 
+## Here you can see the social media icons for the HTML file (the free ones)
+https://fontawesome.com/search?o=r&m=free
 
 
 
