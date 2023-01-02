@@ -13,10 +13,26 @@ Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/
 Microsoft Clarity: https://clarity.microsoft.com  
 Google Analytics: https://analytics.google.com  
 
-## Here you can see the social media icons for the HTML file (the free ones)
-https://fontawesome.com/search?o=r&m=free
+## Social Media Icons
+Here you can choose your wanted icons for each link:  
+https://fontawesome.com/search?o=r&m=free  
+
+### Before using:
+* Make sure that you choose only from the "free" section.  
+* Copy the code for HTML/CSS.  
+
+### How to use (Example)
+Let's say you want to use book icon instead of the Twitter icon  
+
+The line under your wanted link contains this line: "fab fa-twitter"  
+
+Then, after founding the icon that you want and its code, 
+paste the code in the same place where was your previous one  
+
+The final code shoud look like this: "fa-solid fa-book"  
 
 ## How to customize the template (which lines you should change)
+
 ### index.html file
 1. line 7 - website title  
 2. line 10 - website icon image  
