@@ -44,6 +44,7 @@ The final code shoud look like this: "fa-solid fa-book"
 ### style.css file
 1. line 4 - text color  
 2. line 12 - your backround image  
+
 ## Backround image 
 You can change backround to color instead of using an image.  
 You can find your wanted color code here: https://www.color-hex.com  
@@ -52,4 +53,4 @@ You can find your wanted color code here: https://www.color-hex.com
 background-color: #7E65F5;  
 
 ### Gradient Backround Color
-background-image: linear-gradient (#E8E0FF,#7E65F5);  
+background-image: linear-gradient(#E8E0FF,#7E65F5);  
