@@ -2,7 +2,7 @@
 This is a free (and easy to use) alternative to linktree 
 
 ## Demo
-http://linktree.alisa.social
+https://linktree-template.algofam.tech
 
 ## Where to host your website?
 Netlify: https://netlify.app
