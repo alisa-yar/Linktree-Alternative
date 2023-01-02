@@ -48,8 +48,8 @@ The final code shoud look like this: "fa-solid fa-book"
 You can change backround to color instead of using an image.  
 You can find your wanted color code here: https://www.color-hex.com  
 
-### Backround Color: 
-background-color: #7e65f5;  
+### Backround Color
+background-color: #7E65F5;  
 
 ### Gradient Backround Color
-background-image:linear-gradient(#e8e0ff,#7e65f5);  
+background-image: linear-gradient (#E8E0FF,#7E65F5);  
