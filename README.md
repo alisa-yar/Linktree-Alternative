@@ -2,12 +2,19 @@
 This is a free (and easy to use) alternative to linktree 
 
 ## Demo
-http://www.alisa.social/linktree-template/
+http://linktree.alisa.social
 
-## How to use (no coding skills needed)
-1. Click on "Use this template"
-2. Choose "Create new repository"
-3. You'll see the files under "Repositories" tab on your personal profile and you'll be able to edit and customize it to your preferences.
+## Where to host your website?
+Netlify: https://netlify.app
+Github Pages: https://pages.github.com  
+
+## Analytics 
+Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/
+Microsoft Clarity: https://clarity.microsoft.com  
+Google Analytics: https://analytics.google.com  
+
+## Here you can see the social media icons for the HTML file (the free ones)
+https://fontawesome.com/search?o=r&m=free
 
 ## How to customize the template (which lines you should change)
 ### index.html file
@@ -21,18 +28,6 @@ http://www.alisa.social/linktree-template/
 ### style.css file
 1. line 4 - text color 
 2. line 12 - your backround image
-
-## Where to host your website?
-Github Pages: https://pages.github.com  
-Netlify: https://netlify.app
-
-## Analytics 
-Microsoft Clarity: https://clarity.microsoft.com  
-Google Analytics: https://analytics.google.com  
-
-## Here you can see the social media icons for the HTML file (the free ones)
-https://fontawesome.com/search?o=r&m=free
-
 ## Backround image
 You can change backround to color instead of using an image.  
 You can find your wanted color code here: https://www.color-hex.com  
@@ -42,5 +37,3 @@ background-color: #7e65f5;
 
 ### Gradient Backround Color
 background-image:linear-gradient(#e8e0ff,#7e65f5);
-
-
