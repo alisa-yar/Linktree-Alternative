@@ -11,7 +11,7 @@ Github Pages: https://pages.github.com
 ## Analytics 
 I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
 
-Google Tag Menrger: https://tagmanager.google.com/  
+Google Tag Menger: https://tagmanager.google.com/  
 Microsoft Clarity: https://clarity.microsoft.com/  
 Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
