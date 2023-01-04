@@ -42,18 +42,13 @@ body {
       }
 }*/
 
-.description, .source{
+.description {
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
-}
-
-.source{
-    font-size: small;
-    margin-top: 50px;
 }
 
 .profilePicture, .profilePicture img {
