@@ -9,9 +9,10 @@ Netlify: https://netlify.app
 Github Pages: https://pages.github.com  
 
 ## Analytics 
-Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/  
-https://tagmanager.google.com/  
-Microsoft Clarity: https://clarity.microsoft.com  
+I personally recommend using Google Tag Manager and connect it to Microsoft Clarity
+Google Tag Menrger: https://tagmanager.google.com/  
+Microsoft Clarity: https://clarity.microsoft.com/  
+Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
 
 ## Social Media Icons
