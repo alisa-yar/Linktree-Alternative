@@ -10,6 +10,7 @@ Github Pages: https://pages.github.com
 
 ## Analytics 
 Netlify Analytics: https://docs.netlify.com/monitor-sites/analytics/  
+https://tagmanager.google.com/  
 Microsoft Clarity: https://clarity.microsoft.com  
 Google Analytics: https://analytics.google.com  
 
