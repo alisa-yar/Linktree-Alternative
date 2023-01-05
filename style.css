@@ -97,10 +97,15 @@ footer {
     }
 }
 
-.link:active {
+footer:active {
     background-color: var(--textColor);
 }
 
+@media (hover: hover) {
+    .link:hover {
+        background-color: var(--textColor);
+    }
+}
  footer:active {
     background-color: var(--textColor);
 }
