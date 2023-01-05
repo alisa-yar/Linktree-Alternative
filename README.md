@@ -4,8 +4,7 @@ This is a free (and easy to use) alternative to linktree
 ## Demo
 https://linktree-template.algofam.tech/
 
-![demo](/images/demo.jpg)  
-<img src="/images/demo.jpg" alt="alt text" width="100px">
+<img src="/images/demo.jpg" alt="alt text" width="250px">
  
 ---
 
