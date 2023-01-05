@@ -39,9 +39,9 @@ body {
     max-width: 500px;
 }
 
-footer {
-    text-decoration: none !important;
-    background: none !important;
+.source {
+    text-decoration: none;
+    background: none;
     -webkit-tap-highlight-color: transparent;
 }
 
