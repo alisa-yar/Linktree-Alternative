@@ -4,6 +4,13 @@ This is a free (and easy to use) alternative to linktree
 ## Demo
 https://linktree-template.algofam.tech/
 
+## Buy Me A Coffee :coffee:
+<div class = "coffee">
+ <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
+       style="height: 60px !important;width: 217px !important;">
+ </a>
+ 
 ## Where to host your website?
 Netlify: https://netlify.app  
 Github Pages: https://pages.github.com  
@@ -56,13 +63,16 @@ You can find your wanted color code here: https://www.color-hex.com
 background-color: #7E65F5;  
 
 ### Gradient Backround Color
-https://www.css-gradient.com/  
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
 
-## Buy Me A Coffee :coffee:
-<div class = "coffee">
- <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
-       style="height: 60px !important;width: 217px !important;">
- </a>
+## Other Free Resources
+CSS Gradient Generator: https://www.css-gradient.com/  
+Coolors (colors palettes): https://coolors.co  
+CSS color picker from photos: https://imagecolorpicker.com/  
+ColorsWall (colors palette): https://colorswall.com  
+CSS color keyword: https://www.w3.org/wiki/CSS/Properties/color/keywords#Basic_Colors  
+Google Fonts: https://fonts.google.com/  
+Favicon (icons): https://favicon.io/  
+
+
  
