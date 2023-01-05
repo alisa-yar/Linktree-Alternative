@@ -1,9 +1,15 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
 
+---
+
 ## Demo
-https://linktree-template.algofam.tech/
-![](/images/demo.jpg =250x250)
+<a href="https://linktree-template.algofam.tech/" target="_blank">
+
+![demo](/images/demo.jpg)  
+<img src="/images/demo.jpg" alt="alt text" width="250px">
+ 
+---
 
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
@@ -11,10 +17,14 @@ https://linktree-template.algofam.tech/
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
        style="height: 60px !important;width: 217px !important;">
  </a>
- 
+
+---
+
 ## Where to host your website?
 Netlify: https://netlify.app  
 Github Pages: https://pages.github.com  
+
+---
 
 ## Analytics 
 I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
@@ -23,6 +33,8 @@ Google Tag Menger: https://tagmanager.google.com/
 Microsoft Clarity: https://clarity.microsoft.com/  
 Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
+
+---
 
 ## Social Media Icons
 Here you can choose your wanted icons for each link:  
@@ -42,6 +54,8 @@ paste the code in the same place where was your previous one
 
 The final code shoud look like this: "fa-solid fa-book"  
 
+---
+
 ## How to customize the template (which lines you should change)
 
 ### index.html file
@@ -56,6 +70,8 @@ The final code shoud look like this: "fa-solid fa-book"
 1. line 4 - text color  
 2. line 12 - your backround image  
 
+---
+
 ## Backround image 
 You can change backround to color instead of using an image.  
 
@@ -66,6 +82,8 @@ You can find your wanted color code here: https://www.color-hex.com
 ### Gradient Backround Color
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
 CSS Gradient Generator: https://www.css-gradient.com/  
+
+---
 
 ## Other Free Resources
 Coolors (colors palettes): https://coolors.co  
