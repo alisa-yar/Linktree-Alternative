@@ -3,7 +3,7 @@ This is a free (and easy to use) alternative to linktree
 
 ## Demo
 https://linktree-template.algofam.tech/
-![Demo](/images/demo.jpg =250x250)
+![](/images/demo.jpg =250x250)
 
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
