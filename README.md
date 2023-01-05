@@ -4,10 +4,10 @@ This is a free (and easy to use) alternative to linktree
 ---
 
 ## Demo
-<a href="https://linktree-template.algofam.tech/" target="_blank">
+https://linktree-template.algofam.tech/
 
 ![demo](/images/demo.jpg)  
-<img src="/images/demo.jpg" alt="alt text" width="250px">
+<img src="/images/demo.jpg" alt="alt text" width="100px">
  
 ---
 
