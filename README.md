@@ -3,7 +3,7 @@ This is a free (and easy to use) alternative to linktree
 
 ## Demo
 
-[Demo](https://linktree-template.algofam.tech/)
+[Website](https://linktree-template.algofam.tech/)
 
 <img src="/images/demo.jpg" alt="alt text" width="300px">
  
