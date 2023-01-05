@@ -30,19 +30,13 @@ body {
     min-height: 100%;
 }
 
-.description, footer {
+.description {
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
-}
-
-.source {
-    color: var(--textColor);
-    background: none;
-    -webkit-tap-highlight-color: transparent;
 }
 
 .profilePicture, .profilePicture img {
@@ -98,15 +92,8 @@ body {
     }
 }
 
-footer:active {
-    background-color: var(--textColor);
-}
-
 @media (hover: hover) {
     .link:hover {
         background-color: var(--textColor);
     }
-}
- footer:active {
-    background-color: var(--textColor);
 }
