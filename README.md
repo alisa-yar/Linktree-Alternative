@@ -10,7 +10,7 @@ This is a free (and easy to use) alternative to linktree
  
 ## Demo
 
-[Website](https://linktree-template.algofam.tech/)
+[Website](https://linktree.alisa.social/)
 
 <img src="/images/demo.jpg" alt="alt text" width="300px">
  
