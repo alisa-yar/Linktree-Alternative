@@ -64,12 +64,12 @@ background-color: #7E65F5;
 
 ### Gradient Backround Color
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
+CSS Gradient Generator: https://www.css-gradient.com/  
 
 ## Other Free Resources
-CSS Gradient Generator: https://www.css-gradient.com/  
 Coolors (colors palettes): https://coolors.co  
-CSS color picker from photos: https://imagecolorpicker.com/  
 ColorsWall (colors palette): https://colorswall.com  
+CSS color picker from photos: https://imagecolorpicker.com/  
 CSS color keyword: https://www.w3.org/wiki/CSS/Properties/color/keywords#Basic_Colors  
 Google Fonts: https://fonts.google.com/  
 Favicon (icons): https://favicon.io/  
