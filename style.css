@@ -40,7 +40,7 @@ body {
 }
 
 .source {
-    text-decoration: none;
+    color: var(--textColor);
     background: none;
     -webkit-tap-highlight-color: transparent;
 }
