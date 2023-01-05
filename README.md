@@ -1,21 +1,19 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
-
-## Demo
-
-[Website](https://linktree-template.algofam.tech/)
-
-<img src="/images/demo.jpg" alt="alt text" width="300px">
- 
----
-
-## Buy Me A Coffee :coffee:
 <div class = "coffee">
  <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
        style="height: 40px !important;width: 144px !important;">
  </a>
 
+---
+ 
+## Demo
+
+[Website](https://linktree-template.algofam.tech/)
+
+<img src="/images/demo.jpg" alt="alt text" width="300px">
+ 
 ---
 
 ## Where to host your website?
