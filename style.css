@@ -39,10 +39,6 @@ body {
     max-width: 500px;
 }
 
-footer{
-    font-size:small;
-}
-
 .profilePicture, .profilePicture img {
     position: relative;
     width: 130px;
@@ -97,5 +93,9 @@ footer{
 }
 
 .link:active {
+    background-color: var(--textColor);
+}
+
+ footer:active {
     background-color: var(--textColor);
 }
