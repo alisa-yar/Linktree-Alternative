@@ -39,6 +39,11 @@ body {
     max-width: 500px;
 }
 
+footer {
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
 .profilePicture, .profilePicture img {
     position: relative;
     width: 130px;
