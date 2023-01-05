@@ -41,6 +41,7 @@ body {
 
 footer {
     text-decoration: none;
+    background-image: none;
     -webkit-tap-highlight-color: transparent;
 }
 
