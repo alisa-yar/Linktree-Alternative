@@ -30,7 +30,7 @@ body {
     min-height: 100%;
 }
 
-.description .footer {
+.description, footer {
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
@@ -39,7 +39,7 @@ body {
     max-width: 500px;
 }
 
-.footer{
+footer{
     font-size:small;
 }
 
