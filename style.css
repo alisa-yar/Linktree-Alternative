@@ -40,8 +40,8 @@ body {
 }
 
 footer {
-    text-decoration: none;
-    background-image: none;
+    text-decoration: none !important;
+    background: none !important;
     -webkit-tap-highlight-color: transparent;
 }
 
