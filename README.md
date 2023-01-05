@@ -1,8 +1,6 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
 
----
-
 ## Demo
 https://linktree-template.algofam.tech/
 
