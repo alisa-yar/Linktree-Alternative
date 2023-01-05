@@ -30,25 +30,17 @@ body {
     min-height: 100%;
 }
 
-/*@keyframes gradient {
-      0% {
-          background-position: 0% 50%;
-      }
-      50% {
-          background-position: 100% 50%;
-      }
-      100% {
-          background-position: 0% 50%;
-      }
-}*/
-
-.description {
+.description .footer {
     color: var(--textColor);
     text-align: center;
     margin: 27px auto;
     margin-top: 10px;
     width: 90%;
     max-width: 500px;
+}
+
+.footer{
+    font-size:small;
 }
 
 .profilePicture, .profilePicture img {
