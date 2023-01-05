@@ -57,7 +57,7 @@ background-color: #7E65F5;
 
 ### Gradient Backround Color
 https://www.css-gradient.com/  
-background-image: linear-gradient(#E8E0FF,#7E65F5);  
+background-image: linear-gradient (#E8E0FF, #7E65F5);  
 
 ## Buy Me A Coffee :coffee:
 <div class = "coffee">
