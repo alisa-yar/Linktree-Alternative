@@ -10,7 +10,7 @@ This is a free (and easy to use) alternative to linktree
  
 ## Demo
 
-<a href="https://linktree.alisa.social" target="_blank">My Linktree Page</a>
+<a href="https://demo.alisa.social" target="_blank">My Linktree Page</a>
    
 <img src="/images/demo.jpg" alt="alt text" width="300px">
  
