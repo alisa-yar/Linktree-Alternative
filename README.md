@@ -16,9 +16,12 @@ This is a free (and easy to use) alternative to linktree
  
 ---
 
-## Where to host your website?
-Netlify: https://netlify.app  
-Github Pages: https://pages.github.com  
+## Where to host your website (for free)? 
+ 
+Netlify (easy to navigate): https://netlify.app  
+Github Pages (better for begginers): https://pages.github.com  
+Vercel: https://vercel.com/  
+Heroku: https://www.heroku.com  
 
 ---
 
