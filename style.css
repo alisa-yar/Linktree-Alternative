@@ -13,14 +13,13 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: relative;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
 
     font-family: var(--font);
     color: var(--textColor);
-    scroll-behavior: smooth;
 }
 
 body {
@@ -39,15 +38,13 @@ body {
     max-width: 500px;
 }
 
-.profilePicture, .profilePicture img {
+.profilePicture img {
     position: relative;
     width: 130px;
     height: 130px;
     display: block;
     margin: 35px auto 20px;
     border-radius: 50%;
-    -webkit-tap-highlight-color: transparent;
-    
 }
 
 .userName {
@@ -59,7 +56,6 @@ body {
     font-family: var(--font);
     width: 100%;
     text-align: center;
-    text-decoration: none;
 }
 
 .links {
@@ -83,17 +79,5 @@ body {
     margin-bottom: 10px;
     padding: 10px; 
     text-decoration: none;
-    -webkit-tap-highlight-color: transparent;
 }
 
-@media (hover: hover) {
-    .link:hover {
-        background-color: var(--textColor);
-    }
-}
-
-@media (hover: hover) {
-    .link:hover {
-        background-color: var(--textColor);
-    }
-}
