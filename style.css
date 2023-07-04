@@ -9,7 +9,7 @@ html {
     margin: 0;
     height: 100%;
     
-    background-image: url('/images/sky.png');
+    background: url('/images/sky.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
