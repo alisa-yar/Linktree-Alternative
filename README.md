@@ -67,7 +67,7 @@ The final code shoud look like this: "fa-solid fa-book"
 
 ### style.css file
 1. line 4 - text color  
-2. line 12 - your backround image  
+2. line 12 - your backround image/color
 
 ---
 
