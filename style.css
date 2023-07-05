@@ -13,7 +13,7 @@ html {
     font-weight: 400;
 
     /*BACKGROUND:*/
-    background: url('/images/sky.png');
+    background: url('/images/sky.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
