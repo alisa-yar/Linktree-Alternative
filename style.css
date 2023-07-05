@@ -45,7 +45,8 @@ img {
 }
 
 main {
-    width: 500px;
+    width: auto;
+    max-width: 500px;
     margin: 15px auto;
 }
 
