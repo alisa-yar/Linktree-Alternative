@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 
 :root {
-    --textColor: #FFFFFF;
+    --textColor: white;
     --font: 'Karla', sans-serif;
 }
 
 html {
-    margin: 0;
-    height: 100%;
-    
+    /*FONT:*/   
+    font-family: var(--font);
+    color: var(--textColor);
+    font-size: 18px; 
+    font-weight: 400;
+
+    /*BACKGROUND:*/
     background: url('/images/sky.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,67 +21,46 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    font-family: var(--font);
-    color: var(--textColor);
+    text-align: center;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    height: fit-content;
-    min-height: 100%;
+    margin: 10px auto; /*auto - center the linktree*/
 }
 
-.description {
-    color: var(--textColor);
-    text-align: center;
-    margin: 27px auto;
-    margin-top: 10px;
-    width: 90%;
-    max-width: 500px;
-}
-
-.profilePicture img {
-    position: relative;
+img {
     width: 130px;
     height: 130px;
     display: block;
-    margin: 35px auto 20px;
-    border-radius: 50%;
+    margin: 20px auto;
+    border-radius: 50%; /*round image*/
 }
 
-.userName {
+#userName {
+    font-weight: 700; /*bold*/
+}
+
+#description {
+    margin: 20px auto;
+}
+
+main {
+    width: 500px;
+    margin: 15px auto;
+}
+
+/*LINKS*/
+a {
+    /*LINKS TEXT*/
     color: var(--textColor);
-    font-size: 1rem;
-    font-weight: bold;
-    line-height: 1.25;
-    display: block;
-    font-family: var(--font);
-    width: 100%;
-    text-align: center;
-}
-
-.links {
-    max-width: 675px;
-    width: auto;
-    display: block;
-    margin: 27px auto;
-}
-
-.link {
-    position: relative;
-    background-color: transparent;
-    color: var(--textColor);
-    border: solid var(--textColor) 2px;
-    border-radius: 10px;
-    font-size: 1rem;
-    text-align: center;
-    display: block;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    padding: 10px; 
     text-decoration: none;
-}
+    text-align: center;
 
+    /*LINKS BORDER:*/
+    border: 2px solid var(--textColor);
+    border-radius: 10px;
+
+    display: block; /*each link takes a whole line*/
+    margin: 10px;
+    padding: 10px; 
+}
