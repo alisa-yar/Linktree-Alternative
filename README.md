@@ -16,6 +16,29 @@ This is a free (and easy to use) alternative to linktree
  
 ---
 
+## How to customize the template (which lines you should change)
+
+### index.html file
+1. line 7 - website title  
+2. line 10 - website icon image  
+3. line 14 - profile image  
+4. line 16 - user name  
+5. line 17 - description  
+6. lines 20-49 - your social media links  
+
+### style.css file
+1. line 4 - text color  
+2. line 5 - font
+3. line 16 - your backround image/color
+
+#### If you want to change the username and description colors:
+Let's say to 'red' for the example 
+- username - add 'color: red;' after line 40
+- description - add 'color: red;' after line 44
+- both - change line 11 from 'color: var(--textColor);' to 'color: red;'
+
+---
+
 ## Where to host your website (for free)? 
  
 Netlify (easy to navigate): https://netlify.app  
@@ -52,29 +75,6 @@ Then, after founding the icon that you want and its code,
 paste the code in the same place where was your previous one  
 
 The final code shoud look like this: "fa-solid fa-book"  
-
----
-
-## How to customize the template (which lines you should change)
-
-### index.html file
-1. line 7 - website title  
-2. line 10 - website icon image  
-3. line 14 - profile image  
-4. line 16 - user name  
-5. line 17 - description  
-6. lines 20-49 - your social media links  
-
-### style.css file
-1. line 4 - text color  
-2. line 5 - font
-3. line 16 - your backround image/color
-
-#### If you want to change the username and description colors:
-Let's say to 'red' for the example 
-- username - add 'color: red;' after line 40
-- description - add 'color: red;' after line 44
-- both - change line 11 from 'color: var(--textColor);' to 'color: red;'
 
 ---
 
