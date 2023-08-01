@@ -1,5 +1,6 @@
 # Linktree:sparkles:
 This is a free (and easy to use) alternative to linktree 
+
 <div class = "coffee">
  <a class = "link" href="https://www.buymeacoffee.com/alisa.algo" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
@@ -13,7 +14,11 @@ This is a free (and easy to use) alternative to linktree
 <a href="https://demo.alisa.social" target="_blank">My Linktree Page</a>
    
 <img src="/images/demo.jpg" alt="alt text" width="300px">
- 
+
+## Example by <a href="https://github.com/ho0ber" target="_blank">@ho0ber</a>
+https://links.sam.codes  
+He also build <a href="https://github.com/ho0ber/lazylinks" target="_blank">Lazylinks</a>: A simple python package that makes it easy to write content and generate static HTML to be deployed and you can read more about it in his  <a href="https://blog.sam.codes/lazylinks-link-pages-for-lazy-people.html" target="_blank">blog</a>  
+
 ---
 
 ## How to customize the template (which lines you should change)
