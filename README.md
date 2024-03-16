@@ -1,4 +1,4 @@
-# Linktree:sparkles:
+# Linktree ✨
 This is a free (and easy to use) alternative to linktree 
 
 <div class = "coffee">
